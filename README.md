@@ -1,4 +1,5 @@
 # nimare-paper
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/ltetrel/nimare-paper/HEAD)
 The NiMARE software paper, as a Jupyter Book.
 
 To view the built book, see https://nbclab.github.io/nimare-paper/
