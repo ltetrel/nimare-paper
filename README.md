@@ -5,6 +5,8 @@ The NiMARE software paper, as a Jupyter Book.
 
 To view the built book, see https://nbclab.github.io/nimare-paper/
 
+[![status](http://neurolibre.herokuapp.com/papers/28dfe9bf9747b20c7f70221badb19baf/status.svg)](http://neurolibre.herokuapp.com/papers/28dfe9bf9747b20c7f70221badb19baf)
+
 ## Building the book locally
 
 ### 1. Install dependencies
@@ -17,8 +19,6 @@ You can install them with the following:
 ```
 pip install binder/requirements.txt
 ```
-
-In addition to the Python requirements, the LDA topic model section requires Java, in order to use MALLET.
 
 ### 2. Download data files
 
